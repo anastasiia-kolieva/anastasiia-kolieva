@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anastasiiakolieva-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/)](https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/) [![Github Badge](https://img.shields.io/badge/-anastasiiakolieva-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anastasiia-kolieva)](https://github.com/anastasiia-kolieva) <p align='left'>Today I am studying:books: the basics of React on the Fullstack Web Developer course from GOIT.
 I do practical homework on each topic every week. I use Visual Studio Code and Webpack. The results can be viewed on my GitHub Page:point_up_2:
 
-At July 2020 I have graduated from studying HTML+CSS. ![HTML+CSS](https://simpleicons.org/icons/w100/html5.svg)
+At July 2020 I have graduated from studying HTML+CSS.
 Took part in a team project on the creating the site of a teacher of English language. I was lucky to be in the role of Scrum master at the team.
 
 At November 2020 I have graduated from studing Java Script.
@@ -13,5 +13,5 @@ With the solution of each task assigned to me, I am more and more aware that I e
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=anastasiia-kolieva alt=anastasiia-kolieva /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=anastasiia-kolieva&show_icons=true&include_all_commits=true)](https://github.com/anastasiia-kolieva/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=anastasiia-kolieva&theme=nightowl&show_icons=true&include_all_commits=true)](https://github.com/anastasiia-kolieva/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiia-kolieva&layout=compact)](https://github.com/anastasiia-kolieva/github-readme-stats)
