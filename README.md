@@ -14,4 +14,4 @@ With the solution of each task assigned to me, I am more and more aware that I e
 <p align=left> <img src=https://komarev.com/ghpvc/?username=anastasiia-kolieva alt=anastasiia-kolieva /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=anastasiia-kolieva&theme=nightowl&show_icons=true&include_all_commits=true)](https://github.com/anastasiia-kolieva/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiia-kolieva&layout=compact)](https://github.com/anastasiia-kolieva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiia-kolieva&theme=nightowl&layout=compact)](https://github.com/anastasiia-kolieva/github-readme-stats)
