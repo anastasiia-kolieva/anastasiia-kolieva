@@ -1,15 +1,15 @@
 ## Hey 👋, This is Nastya :blush:
 [![Gmail Badge](https://img.shields.io/badge/-nastya1110@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nastya1110@gmail.com)](mailto:nastya1110@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-anastasiiakolieva-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/)](https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/) [![Github Badge](https://img.shields.io/badge/-anastasiiakolieva-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anastasiia-kolieva)](https://github.com/anastasiia-kolieva) <p align='left'>Today I am studying:books: the basics of ***React*** <img height="26" width="26" style="color:#61DAFB;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg"/> on the Fullstack Web Developer course from GOIT.
+[![Linkedin Badge](https://img.shields.io/badge/-anastasiiakolieva-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/)](https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/) [![Github Badge](https://img.shields.io/badge/-anastasiiakolieva-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anastasiia-kolieva)](https://github.com/anastasiia-kolieva) <p align='left'>Today I am studying:books: the basics of ***React*** <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg"/> on the Fullstack Web Developer course from GOIT.
 I do practical homework on each topic every week. I use Visual Studio Code and Webpack. The results can be viewed on my GitHub Page:point_up_2:
 
 At July 2020 I have graduated from studying ***HTML+CSS***
-<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" style="color:#E34F26;"/>
-<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" style="color:#1572B6;"/>
+<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 Took part in a team project on the creating the site of a teacher of English language. I was lucky to be in the role of Scrum master at the team.
 
 At November 2020 I have graduated from studing ***Java Script***.
-<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" style="color:#F7DF1E;"/>
+<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 Took part in a team project on the creating media resource of different films (Filmoteka). Created input for searching films, correct HTTP-request and pagination.
 
 With the solution of each task assigned to me, I am more and more aware that I enjoy the work done. This encourages me not to stop and go further, further comprehend web development.</p>
