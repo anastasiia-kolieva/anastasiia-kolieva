@@ -4,6 +4,7 @@
 I do practical homework on each topic every week. I use Visual Studio Code and Webpack. The results can be viewed on my GitHub Page:point_up_2:
 
 At July 2020 I have graduated from studying **HTML+CSS**.
+[![HTML+CSS(D:\GO IT\HTML  CSS\html5.svg)
 Took part in a team project on the creating the site of a teacher of English language. I was lucky to be in the role of Scrum master at the team.
 
 At November 2020 I have graduated from studing **Java Script**.
