@@ -7,10 +7,12 @@ At July 2020 I have graduated from studying ***HTML5+CSS3***
 <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 Took part in a team project on the creating the site of a teacher of English language. I was lucky to be in the role of Scrum master at the team.
+Project can be viewed on https://github.com/Shaitan84/team-project
 
 At November 2020 I have graduated from studing ***Java Script***.
 <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 Took part in a team project on the creating media resource of different films (Filmoteka). Created input for searching films, correct HTTP-request and pagination.
+Project can be viewed on https://transformator98.github.io/Filmoteka/
 
 At January 2020 I have graduated from studing ***React***.
 <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
