@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anastasiiakolieva-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/)](https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/) [![Github Badge](https://img.shields.io/badge/-anastasiiakolieva-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anastasiia-kolieva)](https://github.com/anastasiia-kolieva) <p align='left'>For more than a year I have been developing different web apps/sites at web-development agency. I graduated from the course:books: Fullstack Web Developer course from GOIT and within a short period of time I received a job offer.
   
 During styding I done practical homework on each topic every week and took part at three team project. I used Visual Studio Code. The results can be viewed on my GitHub Page:point_up_2:
-  
- I have 
 
 At July 2020 I have graduated from studying ***HTML5+CSS3***
 <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
