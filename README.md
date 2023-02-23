@@ -1,4 +1,4 @@
-## Hey 👋, This is Nastya :blush:
+## Hey 👋, This is Anastasiia :blush:
 [![Gmail Badge](https://img.shields.io/badge/-nastya1110@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nastya1110@gmail.com)](mailto:nastya1110@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-anastasiiakolieva-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/)](https://www.linkedin.com/in/anastasiia-kolieva-0b6b38162/) [![Github Badge](https://img.shields.io/badge/-anastasiiakolieva-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anastasiia-kolieva)](https://github.com/anastasiia-kolieva) <p align='left'>For more than 2 years I have been developing different web apps/sites at web-development agency. I graduated from the course:books: Fullstack Web Developer course from GOIT and within a short period of time I received a job offer.
   
